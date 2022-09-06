@@ -1,0 +1,184 @@
+
+    body{
+        margin:0px;
+    }
+  .fas {
+      margin-right:30px;
+      font-size:2rem;
+      margin-left:30px;
+  }  
+  .far {
+      margin-right:10px;
+      font-size:3rem;
+  }
+  .icon-pallet{
+      height:50px;
+      background-color:rgb(228,227,227);
+      margin-left:100px;
+      width: 800px;
+      display: flex;
+      justify-content:space-evenly;
+      align-items:center;
+      
+      
+  }
+  .red{
+      background-color: pink;
+      border-radius: 50%;
+      height:35px;
+      width: 35px;
+      border: 1px solid black;
+  }
+  .green{
+      background-color: lightgreen;
+      border-radius: 50%;
+      height: 35px;
+      width: 35px;
+      border: 1px solid black;
+  }
+  .blue{
+      background-color:lightblue;
+      border-radius: 50%;
+      width: 35px;
+      height:35px;
+      border: 1px solid black;
+  }
+  #color{
+      margin-left: 30px;
+  }
+/* toolbar css */
+.fa-pencil-alt:active,.fa-square:active,.fa-grip-lines-vertical:active{
+  border:1px solid red;
+}
+.toolbar{
+    border: 1px solid gray;
+    border-radius: 4px;
+    width:90vw;
+    margin: 0 auto;
+    height:80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    /* background-color:lightgray; */
+}
+.tool-img{
+    height:50px;
+
+}
+.sizeTool{
+          background-color: white;
+          border: 1px solid black;
+       width:150px;
+       height:30px;
+       display: none;
+       align-items: center;
+       justify-content: space-evenly;
+       
+      
+      }
+      .size1{
+          background-color: lightblue;
+          width:15px;
+height:15px;
+border-radius: 50%;
+      }
+      .size2{
+          background-color: lightblue;
+          width:19px;
+height:19px;
+border-radius: 50%;
+      }
+      .size3{
+          background-color: lightblue;
+          width:22px;
+height:22px;
+border-radius: 50%;
+      }
+      .size4{
+          background-color: lightblue;
+          width:25px;
+height:25px;
+border-radius: 50%;
+      }
+
+
+
+
+      .color{
+          display: flex;
+          width: 140px;
+          justify-content:space-evenly;
+          border:1px solid black;
+      }
+.red{
+    background-color: pink;
+    border-radius: 50%;
+    height:35px;
+    width: 35px;
+    border: 1px solid black;
+}
+.green{
+    background-color: lightgreen;
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    border: 1px solid black;
+}
+.blue{
+    background-color:lightblue;
+    border-radius: 50%;
+    width: 35px;
+    height:35px;
+    border: 1px solid black;
+}
+.toolbar{
+    border: 1px solid gray;
+    border-radius: 4px;
+    width:90vw;
+    margin: 0 auto;
+    height:80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    /* background-color:lightgray; */
+}
+.tool-img{
+    height:50px;
+
+}
+.sizeTool{
+          background-color: white;
+          border: 1px solid black;
+       width:150px;
+       height:30px;
+       display: none;
+       align-items: center;
+       justify-content: space-evenly;
+       
+      
+      }
+      .size1{
+          background-color: lightblue;
+          width:15px;
+height:15px;
+border-radius: 50%;
+      }
+      .size2{
+          background-color: lightblue;
+          width:19px;
+height:19px;
+border-radius: 50%;
+      }
+      .size3{
+          background-color: lightblue;
+          width:22px;
+height:22px;
+border-radius: 50%;
+      }
+      .size4{
+          background-color: lightblue;
+          width:25px;
+height:25px;
+border-radius: 50%;
+      }
+  
